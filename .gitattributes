@@ -1,3 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 /cleaned_disease.csv filter=lfs diff=lfs merge=lfs -text
 /data_cleaning.ipynb filter=lfs diff=lfs merge=lfs -text
 /disease.csv filter=lfs diff=lfs merge=lfs -text
